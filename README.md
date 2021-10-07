@@ -1,4 +1,6 @@
 # Express_basis
+<p>此專案為基本的網頁應用，在點擊按鈕時，可以前往該頁面的呈現及變化。</p>
+
 ## Installing - 專案安裝流程
 1.打開你的 terminal，Clone 此專案至本機電腦
 ```
